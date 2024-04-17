@@ -25,7 +25,7 @@ const productos = [
 		negocio: "Modelorama MOLOCH A.C.",
 		horario: "Lun-Sab 11am-10pm, Dom 11am-6pm",
 		titulo: "Modelorama Moloch donde podrás encontrar la cerveza más fría de las diferentes marcas de grupo Modelo además contamos con botanas de Sabritas, Barcel, Galletas Gamesa,  refrescos de Coca-Cola, también tenemos una gran variedad de sueros Electrolit y Suerox, bebidas energizantes y micheladas, entre muchos productos más, podemos hacer él envió a tu domicilio, recuerda que pagas al recibir.", /*este titulo se va a ver en el dom*/
-		link:"",
+		link:"https://jfraire23.github.io/moloch/",
 		imagen: "logo-moloch2.jpg", /*ruta de la imagen*/
 		platillo1: "modelorama",
 		contenido: "1L",
