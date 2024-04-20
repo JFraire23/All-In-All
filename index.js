@@ -40,9 +40,9 @@ const productos = [
 	{
 		id: "Café Bar Cielito Lindo",
 		negocio: "Cielito Lindo: Café-Bar",
-		horario: "PROXIMAMENTE",
+		horario: "Lun-Sab 8am-2pm, 5pm-10pm",
 		titulo: "Ven o pide para llevar un buen café con alguno de los distintos postres que tenemos para ti, tambien contamos con desayunos de huevos al gusto acompañados de chilaquiles y frijoles refritos con queso, gran variedad de Waffles con distintos toppings, también podras encontrar variedad de tés, frappes y bebidas frías. Contamos con servicio a domicilio o para comer en el local.", /*este titulo se va a ver en el dom*/
-		link:"",
+		link:"https://jfraire23.github.io/cielito-lindo/",
 		imagen: "logo-cielito-lindo.jpg", /*ruta de la imagen*/
 		platillo1: "enchiladas poblanas",
 		contenido: "1L",
