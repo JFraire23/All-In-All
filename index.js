@@ -59,13 +59,13 @@ const productos = [
 
 	//LACTEOS
 			{
-		id: "cafetería EL COMALITO",
-		negocio: "Cafetería EL COMALITO",
+		id: "DANNY´S PIZZA",
+		negocio: "DANNY´S PIZZA",
 		horario: "PROXIMAMENTE",
 		titulo: "", /*este titulo se va a ver en el dom*/
 		link:"",
-		imagen: "proximamente.png", /*ruta de la imagen*/
-		platillo1: "enchiladas poblanas",
+		imagen: "LOGO-DANNYS.jpg", /*ruta de la imagen*/
+		platillo1: "pizzas",
 		contenido: "1L",
 		marca: "123",
 		categoria: {
@@ -76,8 +76,8 @@ const productos = [
 	},
 
 		{
-		id: "cafetería MILLA 13",
-		negocio: "Cafetería MILLA 13",
+		id: "cafetería EL JEFE",
+		negocio: "cafetería EL JEFE",
 		horario: "PROXIMAMENTE",
 		titulo: "", /*este titulo se va a ver en el dom*/
 		link:"",
