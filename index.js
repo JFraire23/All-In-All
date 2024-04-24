@@ -61,9 +61,9 @@ const productos = [
 			{
 		id: "DANNY´S PIZZA",
 		negocio: "DANNY´S PIZZA",
-		horario: "Lun-Dom 10am-10pm",
+		horario: "PROXIMAMENTE",
 		titulo: "Disfruta de las deliciosas Pizzas que tenemos para ti, además de papas a la francesa, alitas y boneless con las diferentes salsas, tenemos envios a domicilio o puedes pedir y pasar a recoger. ", /*este titulo se va a ver en el dom*/
-		link:"https://jfraire23.github.io/dannys-pizza/",
+		link:"",
 		imagen: "LOGO-DANNYS.jpg", /*ruta de la imagen*/
 		platillo1: "pizzas",
 		contenido: "1L",
